@@ -12,8 +12,4 @@ color:
     - '#5C6B73'
     - '#253237'
 name: Jessica Shaw
-navigation:
-  - id: bbd3a3d7-1b92-47b3-898c-b79e84e197b7
-    url: 2016-04-20-the-untold-story-of-magic-leap-the-worlds-most-secretive-s.html
-    name: About Me
-    type: content
+navigation: []
