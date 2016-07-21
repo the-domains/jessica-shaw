@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jessica Shaw]]></title>
         <description><![CDATA[Jessica Shaw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jessica-shaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 06:15:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 06:16:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jessica-shaw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Magic Leap, the World's Most Secretive Startup]]></title>
             <description><![CDATA[<article><h1>The Untold Story of Magic Leap, the World's Most Secretive Startup</h1><p>T There is something special happening in a generic office park in an uninspiring suburb near Fort Lauderdale, Florida. Inside, amid the low gray cubicles, clustered desks, and empty swivel chairs, an impossible 8-inch robot drone from an alien planet hovers chest-high in front of a row of potted plants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c074a0d302be59dce473c720dd3426bf33ec9c32.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/04/magic-leap-vr/?utm_content=buffer05f4e&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <link>https://thegrid.ai/jessica-shaw/the-untold-story-of-magic-leap-the-worlds-most-secretive-s/index.html</link>
             <guid isPermaLink="false">bbd3a3d7-1b92-47b3-898c-b79e84e197b7</guid>
-            <pubDate>Thu, 21 Jul 2016 06:15:07 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2016 06:16:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
