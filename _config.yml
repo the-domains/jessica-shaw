@@ -6,9 +6,14 @@ color:
   saturation: 0.14909781096503139
   rhythmicContrast: 0.3528564968146384
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Jessica Shaw
+navigation:
+  - id: bbd3a3d7-1b92-47b3-898c-b79e84e197b7
+    url: 2016-04-20-the-untold-story-of-magic-leap-the-worlds-most-secretive-s.html
+    name: About Me
+    type: content
